@@ -12,6 +12,11 @@ body {
     width: 100vw;
 }
 
+#headerText {
+    font: comic-sans;
+    font-size: 2em;
+}
+
 #splashContainer {
     display: flex;
     flex-direction: column;
